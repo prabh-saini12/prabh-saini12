@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Khushiram saini</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-<img src="./Programming%20.gif"  style = "border-radius:5px;" align="right" width="400"  >
+<!-- <img src="./Programming%20.gif"  style = "border-radius:5px;" align="right" width="400"  > -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabh-saini12&label=Profile%20views&color=0e75b6&style=flat" alt="prabh-saini12" /> </p>
 
