@@ -1,11 +1,14 @@
-![logo](./Hello_WOrld.png)
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-<h1 align="center">Hi 👋, I'm Khushiram saini</h1>
-<h3 align="center">A Computer Science Student</h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=prabh-saini12.prabh-saini12&"  />
+</div>
 
-<!-- <img src="./Programming%20.gif"  style = "border-radius:5px;" align="right" width="400"  > -->
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabh-saini12&label=Profile%20views&color=0e75b6&style=flat" alt="prabh-saini12" /> </p>
+<h1 align="center">नमस्ते (Namaste), I am Khushiram saini</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,11 +16,29 @@
 <a href="https://www.leetcode.com/prabh_saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prabh_saini" height="31" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<h3 align="left">🛠 Language and tools</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabh-saini12&show_icons=true&locale=en&layout=compact" alt="prabh-saini12" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabh-saini12&show_icons=true&locale=en" alt="prabh-saini12" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabh-saini12&" alt="prabh-saini12" /></p>
+<h3 align="left">🔥   My Stats :</h3>
+<div align="">
+  <img src="https://streak-stats.demolab.com?user=prabh-saini12&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
