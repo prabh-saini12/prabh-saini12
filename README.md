@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">नमस्ते (Namaste), I am Khushiram saini</h1>
+<h2 align="center">नमस्ते (Namaste), I am Khushiram saini</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
